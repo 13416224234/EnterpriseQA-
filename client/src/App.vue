@@ -1,0 +1,11 @@
+<template>
+  <router-view />
+</template>
+
+<script setup>
+// 根组件：只负责路由渲染
+</script>
+
+<style>
+html, body, #app { margin: 0; padding: 0; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+</style>
